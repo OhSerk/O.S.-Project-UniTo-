@@ -1,0 +1,1697 @@
+Inizio nuova partita! Una regola partita di 20 squadre composte da 5 giocatori con 12 palle in gioco!!
+
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: driblato l'avversario!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: sbagliato il dribbling!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: driblato l'avversario!
+17637: ha preso il controllo del pallone
+17637: della squadra B ha: driblato l'avversario!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: driblato l'avversario!
+17639: ha preso il controllo del pallone
+17639: della squadra B ha: driblato l'avversario!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: driblato l'avversario!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: sbagliato il dribbling!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: fatto GOAL!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: fatto GOAL!
+17647: ha preso il controllo del pallone
+17647: della squadra C ha: sbagliato il dribbling!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: fatto GOAL!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: fatto GOAL!
+17637: ha preso il controllo del pallone
+17637: della squadra B ha: fatto GOAL!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: fatto GOAL!
+17639: ha preso il controllo del pallone
+17639: della squadra B ha: sbagliato il tiro!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: sbagliato il tiro!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: driblato l'avversario!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: fatto GOAL!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: fatto GOAL!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: driblato l'avversario!
+17650: ha preso il controllo del pallone
+17650: della squadra D ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: fatto GOAL!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: driblato l'avversario!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: sbagliato il tiro!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: fatto GOAL!
+17650: ha preso il controllo del pallone
+17650: della squadra D ha: fatto GOAL!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: sbagliato il tiro!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: sbagliato il tiro!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: sbagliato il tiro!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: sbagliato il tiro!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: sbagliato il tiro!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: driblato l'avversario!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: sbagliato il tiro!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: sbagliato il tiro!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: driblato l'avversario!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: sbagliato il dribbling!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: driblato l'avversario!
+17662: ha preso il controllo del pallone
+17662: della squadra F ha: driblato l'avversario!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: driblato l'avversario!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: driblato l'avversario!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: driblato l'avversario!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: fatto GOAL!
+17673: ha preso il controllo del pallone
+17673: della squadra H ha: driblato l'avversario!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: driblato l'avversario!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: fatto GOAL!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: driblato l'avversario!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: sbagliato il tiro!
+17662: ha preso il controllo del pallone
+17662: della squadra F ha: sbagliato il tiro!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: sbagliato il tiro!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: sbagliato il tiro!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: fatto GOAL!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: fatto GOAL!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: sbagliato il tiro!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17673: ha preso il controllo del pallone
+17673: della squadra H ha: sbagliato il tiro!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: fatto GOAL!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: fatto GOAL!
+17679: ha preso il controllo del pallone
+17679: della squadra I ha: driblato l'avversario!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: driblato l'avversario!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: driblato l'avversario!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: driblato l'avversario!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: sbagliato il dribbling!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: driblato l'avversario!
+17686: ha preso il controllo del pallone
+17686: della squadra J ha: driblato l'avversario!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: fatto GOAL!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: sbagliato il dribbling!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: driblato l'avversario!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: fatto GOAL!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: sbagliato il dribbling!
+17679: ha preso il controllo del pallone
+17679: della squadra I ha: sbagliato il tiro!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: sbagliato il tiro!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: fatto GOAL!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: fatto GOAL!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: driblato l'avversario!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: fatto GOAL!
+17686: ha preso il controllo del pallone
+17686: della squadra J ha: fatto GOAL!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: driblato l'avversario!
+17693: ha preso il controllo del pallone
+17693: della squadra K ha: sbagliato il dribbling!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: fatto GOAL!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: driblato l'avversario!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: driblato l'avversario!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: sbagliato il dribbling!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: fatto GOAL!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: driblato l'avversario!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: sbagliato il dribbling!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: fatto GOAL!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: driblato l'avversario!
+17706: ha preso il controllo del pallone
+17706: della squadra M ha: driblato l'avversario!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: fatto GOAL!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: sbagliato il tiro!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: sbagliato il tiro!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: fatto GOAL!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: fatto GOAL!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: sbagliato il dribbling!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: sbagliato il tiro!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: driblato l'avversario!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: sbagliato il dribbling!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: fatto GOAL!
+17706: ha preso il controllo del pallone
+17706: della squadra M ha: fatto GOAL!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: sbagliato il dribbling!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: driblato l'avversario!
+17710: ha preso il controllo del pallone
+17710: della squadra N ha: driblato l'avversario!
+17716: ha preso il controllo del pallone
+17716: della squadra O ha: driblato l'avversario!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: fatto GOAL!
+17718: ha preso il controllo del pallone
+17718: della squadra O ha: sbagliato il dribbling!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: sbagliato il dribbling!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: sbagliato il dribbling!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: fatto GOAL!
+17719: ha preso il controllo del pallone
+17719: della squadra O ha: driblato l'avversario!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: driblato l'avversario!
+17723: ha preso il controllo del pallone
+17723: della squadra P ha: driblato l'avversario!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: driblato l'avversario!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: sbagliato il tiro!
+17710: ha preso il controllo del pallone
+17710: della squadra N ha: fatto GOAL!
+17716: ha preso il controllo del pallone
+17716: della squadra O ha: fatto GOAL!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: sbagliato il dribbling!
+17726: ha preso il controllo del pallone
+17726: della squadra P ha: driblato l'avversario!
+17730: ha preso il controllo del pallone
+17730: della squadra Q ha: driblato l'avversario!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: sbagliato il dribbling!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: driblato l'avversario!
+17719: ha preso il controllo del pallone
+17719: della squadra O ha: fatto GOAL!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: fatto GOAL!
+17723: ha preso il controllo del pallone
+17723: della squadra P ha: sbagliato il tiro!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: fatto GOAL!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: driblato l'avversario!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: driblato l'avversario!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: fatto GOAL!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: sbagliato il tiro!
+17726: ha preso il controllo del pallone
+17726: della squadra P ha: sbagliato il tiro!
+17730: ha preso il controllo del pallone
+17730: della squadra Q ha: fatto GOAL!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: sbagliato il tiro!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17647: ha preso il controllo del pallone
+17647: della squadra C ha: fatto GOAL!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: sbagliato il dribbling!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: driblato l'avversario!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: sbagliato il tiro!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: fatto GOAL!
+17637: ha preso il controllo del pallone
+17637: della squadra B ha: sbagliato il dribbling!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: driblato l'avversario!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: sbagliato il dribbling!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: saltato la scivolata!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: saltato la scivolata!
+17741: ha preso il controllo del pallone
+17741: della squadra R ha: sbagliato il dribbling!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: sbagliato il dribbling!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: saltato la scivolata!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: driblato l'avversario!
+17742: ha preso il controllo del pallone
+17742: della squadra R ha: driblato l'avversario!
+17639: ha preso il controllo del pallone
+17639: della squadra B ha: driblato l'avversario!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: saltato la scivolata!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: sbagliato il dribbling!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: saltato la scivolata!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: fatto GOAL!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: driblato l'avversario!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: driblato l'avversario!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: sbagliato il dribbling!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: fatto GOAL!
+17742: ha preso il controllo del pallone
+17742: della squadra R ha: sbagliato il tiro!
+17639: ha preso il controllo del pallone
+17639: della squadra B ha: ricevuto una violenta botta!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: driblato l'avversario!
+17650: ha preso il controllo del pallone
+17650: della squadra D ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: saltato la scivolata!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: saltato la scivolata!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: driblato l'avversario!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: driblato l'avversario!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: driblato l'avversario!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: driblato l'avversario!
+17650: ha preso il controllo del pallone
+17650: della squadra D ha: ricevuto una violenta botta!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: sbagliato il tiro!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: fatto GOAL!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: fatto GOAL!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: sbagliato il dribbling!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: driblato l'avversario!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: fatto GOAL!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: sbagliato il tiro!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: fatto GOAL!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: fatto GOAL!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: sbagliato il tiro!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: fatto GOAL!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: sbagliato il tiro!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: saltato la scivolata!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: saltato la scivolata!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: saltato la scivolata!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: sbagliato il tiro!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: saltato la scivolata!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: saltato la scivolata!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: saltato la scivolata!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: saltato la scivolata!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: saltato la scivolata!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: saltato la scivolata!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: saltato la scivolata!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: sbagliato il dribbling!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: sbagliato il dribbling!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: sbagliato il tiro!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: sbagliato il tiro!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: driblato l'avversario!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: fatto GOAL!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: fatto GOAL!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: fatto GOAL!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: sbagliato il tiro!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: driblato l'avversario!
+17753: ha preso il controllo del pallone
+17753: della squadra T ha: sbagliato il dribbling!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: driblato l'avversario!
+17751: ha preso il controllo del pallone
+17751: della squadra T ha: driblato l'avversario!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: sbagliato il dribbling!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: saltato la scivolata!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: saltato la scivolata!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: driblato l'avversario!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: saltato la scivolata!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: driblato l'avversario!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: driblato l'avversario!
+17662: ha preso il controllo del pallone
+17662: della squadra F ha: driblato l'avversario!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: fatto GOAL!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: driblato l'avversario!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: sbagliato il tiro!
+17751: ha preso il controllo del pallone
+17751: della squadra T ha: fatto GOAL!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: driblato l'avversario!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: sbagliato il dribbling!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: fatto GOAL!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: driblato l'avversario!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: sbagliato il tiro!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: saltato la scivolata!
+17662: ha preso il controllo del pallone
+17662: della squadra F ha: ricevuto una violenta botta!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: driblato l'avversario!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: saltato la scivolata!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: driblato l'avversario!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: fatto GOAL!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: saltato la scivolata!
+17673: ha preso il controllo del pallone
+17673: della squadra H ha: sbagliato il dribbling!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: sbagliato il dribbling!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: sbagliato il tiro!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: driblato l'avversario!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: saltato la scivolata!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: driblato l'avversario!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: saltato la scivolata!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: driblato l'avversario!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: fatto GOAL!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: fatto GOAL!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: saltato la scivolata!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: driblato l'avversario!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: driblato l'avversario!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: driblato l'avversario!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: driblato l'avversario!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: sbagliato il dribbling!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: driblato l'avversario!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: saltato la scivolata!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: driblato l'avversario!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: driblato l'avversario!
+17686: ha preso il controllo del pallone
+17686: della squadra J ha: sbagliato il dribbling!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: saltato la scivolata!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: saltato la scivolata!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: fatto GOAL!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: driblato l'avversario!
+17693: ha preso il controllo del pallone
+17693: della squadra K ha: fatto GOAL!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: sbagliato il dribbling!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: fatto GOAL!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: saltato la scivolata!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: driblato l'avversario!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: sbagliato il dribbling!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: driblato l'avversario!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: sbagliato il dribbling!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: sbagliato il tiro!
+17679: ha preso il controllo del pallone
+17679: della squadra I ha: sbagliato il dribbling!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: sbagliato il tiro!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: driblato l'avversario!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: driblato l'avversario!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: saltato la scivolata!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: fatto GOAL!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: fatto GOAL!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: driblato l'avversario!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: driblato l'avversario!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: driblato l'avversario!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: sbagliato il dribbling!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: fatto GOAL!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: saltato la scivolata!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: fatto GOAL!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: driblato l'avversario!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: driblato l'avversario!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: fatto GOAL!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: driblato l'avversario!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: fatto GOAL!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: saltato la scivolata!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: saltato la scivolata!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: saltato la scivolata!
+17706: ha preso il controllo del pallone
+17706: della squadra M ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: driblato l'avversario!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: sbagliato il dribbling!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: driblato l'avversario!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: sbagliato il tiro!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: driblato l'avversario!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: sbagliato il tiro!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: saltato la scivolata!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: sbagliato il dribbling!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: driblato l'avversario!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: driblato l'avversario!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+17706: ha preso il controllo del pallone
+17706: della squadra M ha: ricevuto una violenta botta!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: saltato la scivolata!
+17718: ha preso il controllo del pallone
+17718: della squadra O ha: sbagliato il tiro!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: saltato la scivolata!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: driblato l'avversario!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: sbagliato il tiro!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: fatto GOAL!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: driblato l'avversario!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: fatto GOAL!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: driblato l'avversario!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: sbagliato il dribbling!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: sbagliato il dribbling!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: driblato l'avversario!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: sbagliato il dribbling!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: saltato la scivolata!
+17710: ha preso il controllo del pallone
+17710: della squadra N ha: driblato l'avversario!
+17716: ha preso il controllo del pallone
+17716: della squadra O ha: driblato l'avversario!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: driblato l'avversario!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: sbagliato il tiro!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: sbagliato il tiro!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: fatto GOAL!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: fatto GOAL!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: driblato l'avversario!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: saltato la scivolata!
+17719: ha preso il controllo del pallone
+17719: della squadra O ha: driblato l'avversario!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: sbagliato il dribbling!
+17710: ha preso il controllo del pallone
+17710: della squadra N ha: ricevuto una violenta botta!
+17716: ha preso il controllo del pallone
+17716: della squadra O ha: ricevuto una violenta botta!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: fatto GOAL!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: driblato l'avversario!
+17647: ha preso il controllo del pallone
+17647: della squadra C ha: driblato l'avversario!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: sbagliato il dribbling!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: driblato l'avversario!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: saltato la scivolata!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: driblato l'avversario!
+17719: ha preso il controllo del pallone
+17719: della squadra O ha: ricevuto una violenta botta!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: driblato l'avversario!
+17730: ha preso il controllo del pallone
+17730: della squadra Q ha: driblato l'avversario!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: saltato la scivolata!
+17647: ha preso il controllo del pallone
+17647: della squadra C ha: ricevuto una violenta botta!
+17723: ha preso il controllo del pallone
+17723: della squadra P ha: driblato l'avversario!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: saltato la scivolata!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: driblato l'avversario!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: driblato l'avversario!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: saltato la scivolata!
+17730: ha preso il controllo del pallone
+17730: della squadra Q ha: ricevuto una violenta botta!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: sbagliato il dribbling!
+17723: ha preso il controllo del pallone
+17723: della squadra P ha: ricevuto una violenta botta!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: sbagliato il dribbling!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: driblato l'avversario!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: fatto GOAL!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: saltato la scivolata!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: driblato l'avversario!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: driblato l'avversario!
+17726: ha preso il controllo del pallone
+17726: della squadra P ha: driblato l'avversario!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: sbagliato il tiro!
+17637: ha preso il controllo del pallone
+17637: della squadra B ha: ricevuto una violenta botta!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: sbagliato il dribbling!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: driblato l'avversario!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: saltato la scivolata!
+17726: ha preso il controllo del pallone
+17726: della squadra P ha: ricevuto una violenta botta!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: saltato la scivolata!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: driblato l'avversario!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: fatto GOAL!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: driblato l'avversario!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: driblato l'avversario!
+17741: ha preso il controllo del pallone
+17741: della squadra R ha: fatto GOAL!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: fatto GOAL!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: saltato la scivolata!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: driblato l'avversario!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: driblato l'avversario!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: driblato l'avversario!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: saltato la scivolata!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: driblato l'avversario!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: driblato l'avversario!
+17742: ha preso il controllo del pallone
+17742: della squadra R ha: driblato l'avversario!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: driblato l'avversario!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: saltato la scivolata!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: sbagliato il tiro!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: sbagliato il tiro!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: driblato l'avversario!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: saltato la scivolata!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: saltato la scivolata!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: driblato l'avversario!
+17742: ha preso il controllo del pallone
+17742: della squadra R ha: ricevuto una violenta botta!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: driblato l'avversario!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: sbagliato il dribbling!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: sbagliato il dribbling!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: driblato l'avversario!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: driblato l'avversario!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: driblato l'avversario!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: driblato l'avversario!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: driblato l'avversario!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: saltato la scivolata!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: fatto GOAL!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: driblato l'avversario!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: driblato l'avversario!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: driblato l'avversario!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: saltato la scivolata!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: saltato la scivolata!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: fatto GOAL!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: driblato l'avversario!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: sbagliato il dribbling!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: fatto GOAL!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: saltato la scivolata!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: driblato l'avversario!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: saltato la scivolata!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: fatto GOAL!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: sbagliato il dribbling!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: driblato l'avversario!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: fatto GOAL!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: fatto GOAL!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: sbagliato il tiro!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: driblato l'avversario!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: saltato la scivolata!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: sbagliato il dribbling!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: saltato la scivolata!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: fatto GOAL!
+17755: ha preso il controllo del pallone
+17755: della squadra B ha: driblato l'avversario!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: driblato l'avversario!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: fatto GOAL!
+17753: ha preso il controllo del pallone
+17753: della squadra T ha: sbagliato il tiro!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: driblato l'avversario!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: fatto GOAL!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: driblato l'avversario!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: driblato l'avversario!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: driblato l'avversario!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: sbagliato il dribbling!
+17751: ha preso il controllo del pallone
+17751: della squadra T ha: driblato l'avversario!
+17755: ha preso il controllo del pallone
+17755: della squadra B ha: sbagliato il tiro!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: sbagliato il tiro!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: driblato l'avversario!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: driblato l'avversario!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: fatto GOAL!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: sbagliato il dribbling!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: driblato l'avversario!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: fatto GOAL!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: fatto GOAL!
+17751: ha preso il controllo del pallone
+17751: della squadra T ha: ricevuto una violenta botta!
+17673: ha preso il controllo del pallone
+17673: della squadra H ha: ricevuto una violenta botta!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: sbagliato il tiro!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: sbagliato il tiro!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: saltato la scivolata!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: saltato la scivolata!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: fatto GOAL!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: saltato la scivolata!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: fatto GOAL!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: sbagliato il tiro!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: driblato l'avversario!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: sbagliato il tiro!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: driblato l'avversario!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: driblato l'avversario!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: driblato l'avversario!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: saltato la scivolata!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: sbagliato il tiro!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: driblato l'avversario!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: sbagliato il tiro!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: saltato la scivolata!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: fatto GOAL!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: saltato la scivolata!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: driblato l'avversario!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: driblato l'avversario!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: driblato l'avversario!
+17693: ha preso il controllo del pallone
+17693: della squadra K ha: driblato l'avversario!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: driblato l'avversario!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: fatto GOAL!
+17686: ha preso il controllo del pallone
+17686: della squadra J ha: ricevuto una violenta botta!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: driblato l'avversario!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: fatto GOAL!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: sbagliato il dribbling!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: fatto GOAL!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: fatto GOAL!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: driblato l'avversario!
+17693: ha preso il controllo del pallone
+17693: della squadra K ha: ricevuto una violenta botta!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: sbagliato il tiro!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: saltato la scivolata!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: driblato l'avversario!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: driblato l'avversario!
+17679: ha preso il controllo del pallone
+17679: della squadra I ha: ricevuto una violenta botta!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: fatto GOAL!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: fatto GOAL!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: driblato l'avversario!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: driblato l'avversario!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: sbagliato il tiro!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: saltato la scivolata!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: saltato la scivolata!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: fatto GOAL!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: saltato la scivolata!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: fatto GOAL!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: saltato la scivolata!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: sbagliato il dribbling!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: driblato l'avversario!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: driblato l'avversario!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: driblato l'avversario!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: fatto GOAL!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: saltato la scivolata!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: driblato l'avversario!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: fatto GOAL!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: driblato l'avversario!
+17765: ha preso il controllo del pallone
+17765: della squadra F ha: driblato l'avversario!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: fatto GOAL!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: driblato l'avversario!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: driblato l'avversario!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: sbagliato il dribbling!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: driblato l'avversario!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: saltato la scivolata!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: driblato l'avversario!
+17765: ha preso il controllo del pallone
+17765: della squadra F ha: sbagliato il tiro!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: driblato l'avversario!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: fatto GOAL!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: driblato l'avversario!
+17701: ha preso il controllo del pallone
+17701: della squadra L ha: sbagliato il tiro!
+17718: ha preso il controllo del pallone
+17718: della squadra O ha: driblato l'avversario!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: driblato l'avversario!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: fatto GOAL!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: driblato l'avversario!
+17708: ha preso il controllo del pallone
+17708: della squadra M ha: sbagliato il tiro!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: fatto GOAL!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: saltato la scivolata!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: sbagliato il tiro!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: fatto GOAL!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: saltato la scivolata!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: driblato l'avversario!
+17718: ha preso il controllo del pallone
+17718: della squadra O ha: saltato la scivolata!
+17713: ha preso il controllo del pallone
+17713: della squadra N ha: fatto GOAL!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: driblato l'avversario!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: driblato l'avversario!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: fatto GOAL!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: driblato l'avversario!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: driblato l'avversario!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: saltato la scivolata!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: fatto GOAL!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: driblato l'avversario!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: fatto GOAL!
+17718: ha preso il controllo del pallone
+17718: della squadra O ha: sbagliato il dribbling!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: driblato l'avversario!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: saltato la scivolata!
+17707: ha preso il controllo del pallone
+17707: della squadra M ha: fatto GOAL!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: sbagliato il tiro!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: saltato la scivolata!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: fatto GOAL!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: sbagliato il dribbling!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: sbagliato il tiro!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: driblato l'avversario!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: driblato l'avversario!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: fatto GOAL!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: fatto GOAL!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: driblato l'avversario!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: fatto GOAL!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: fatto GOAL!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: driblato l'avversario!
+17717: ha preso il controllo del pallone
+17717: della squadra O ha: fatto GOAL!
+17779: ha preso il controllo del pallone
+17779: della squadra M ha: sbagliato il dribbling!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: driblato l'avversario!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: driblato l'avversario!
+17720: ha preso il controllo del pallone
+17720: della squadra O ha: sbagliato il tiro!
+17699: ha preso il controllo del pallone
+17699: della squadra L ha: fatto GOAL!
+17741: ha preso il controllo del pallone
+17741: della squadra R ha: sbagliato il dribbling!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: driblato l'avversario!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: driblato l'avversario!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: driblato l'avversario!
+17711: ha preso il controllo del pallone
+17711: della squadra N ha: sbagliato il tiro!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: driblato l'avversario!
+17780: ha preso il controllo del pallone
+17780: della squadra N ha: driblato l'avversario!
+17781: ha preso il controllo del pallone
+17781: della squadra O ha: driblato l'avversario!
+17724: ha preso il controllo del pallone
+17724: della squadra P ha: fatto GOAL!
+17722: ha preso il controllo del pallone
+17722: della squadra P ha: fatto GOAL!
+17633: ha preso il controllo del pallone
+17633: della squadra A ha: fatto GOAL!
+17782: ha preso il controllo del pallone
+17782: della squadra O ha: driblato l'avversario!
+17638: ha preso il controllo del pallone
+17638: della squadra B ha: fatto GOAL!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: saltato la scivolata!
+17731: ha preso il controllo del pallone
+17731: della squadra Q ha: sbagliato il tiro!
+17634: ha preso il controllo del pallone
+17634: della squadra A ha: sbagliato il tiro!
+17783: ha preso il controllo del pallone
+17783: della squadra C ha: driblato l'avversario!
+17725: ha preso il controllo del pallone
+17725: della squadra P ha: sbagliato il tiro!
+17780: ha preso il controllo del pallone
+17780: della squadra N ha: fatto GOAL!
+17781: ha preso il controllo del pallone
+17781: della squadra O ha: sbagliato il tiro!
+17785: ha preso il controllo del pallone
+17785: della squadra Q ha: driblato l'avversario!
+17635: ha preso il controllo del pallone
+17635: della squadra A ha: fatto GOAL!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17782: ha preso il controllo del pallone
+17782: della squadra O ha: fatto GOAL!
+17786: ha preso il controllo del pallone
+17786: della squadra P ha: driblato l'avversario!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: driblato l'avversario!
+17732: ha preso il controllo del pallone
+17732: della squadra Q ha: sbagliato il dribbling!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: driblato l'avversario!
+17783: ha preso il controllo del pallone
+17783: della squadra C ha: sbagliato il tiro!
+17645: ha preso il controllo del pallone
+17645: della squadra C ha: sbagliato il tiro!
+17787: ha preso il controllo del pallone
+17787: della squadra B ha: driblato l'avversario!
+17643: ha preso il controllo del pallone
+17643: della squadra C ha: fatto GOAL!
+17785: ha preso il controllo del pallone
+17785: della squadra Q ha: fatto GOAL!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: saltato la scivolata!
+17733: ha preso il controllo del pallone
+17733: della squadra Q ha: sbagliato il tiro!
+17786: ha preso il controllo del pallone
+17786: della squadra P ha: fatto GOAL!
+17739: ha preso il controllo del pallone
+17739: della squadra R ha: sbagliato il dribbling!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17640: ha preso il controllo del pallone
+17640: della squadra B ha: ricevuto una violenta botta!
+17734: ha preso il controllo del pallone
+17734: della squadra Q ha: fatto GOAL!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: driblato l'avversario!
+17787: ha preso il controllo del pallone
+17787: della squadra B ha: fatto GOAL!
+17788: ha preso il controllo del pallone
+17788: della squadra P ha: driblato l'avversario!
+17641: ha preso il controllo del pallone
+17641: della squadra B ha: fatto GOAL!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: saltato la scivolata!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17753: ha preso il controllo del pallone
+17753: della squadra T ha: driblato l'avversario!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: saltato la scivolata!
+17740: ha preso il controllo del pallone
+17740: della squadra R ha: sbagliato il tiro!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: saltato la scivolata!
+17661: ha preso il controllo del pallone
+17661: della squadra F ha: sbagliato il dribbling!
+17788: ha preso il controllo del pallone
+17788: della squadra P ha: sbagliato il tiro!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: saltato la scivolata!
+17753: ha preso il controllo del pallone
+17753: della squadra T ha: ricevuto una violenta botta!
+17746: ha preso il controllo del pallone
+17746: della squadra S ha: sbagliato il tiro!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: saltato la scivolata!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17651: ha preso il controllo del pallone
+17651: della squadra D ha: sbagliato il dribbling!
+17658: ha preso il controllo del pallone
+17658: della squadra E ha: sbagliato il tiro!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: saltato la scivolata!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: saltato la scivolata!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: driblato l'avversario!
+17755: ha preso il controllo del pallone
+17755: della squadra B ha: driblato l'avversario!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17632: ha preso il controllo del pallone
+17632: della squadra A ha: ricevuto una violenta botta!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: saltato la scivolata!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: saltato la scivolata!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: driblato l'avversario!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: saltato la scivolata!
+17755: ha preso il controllo del pallone
+17755: della squadra B ha: saltato la scivolata!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: saltato la scivolata!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: saltato la scivolata!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: saltato la scivolata!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: driblato l'avversario!
+17644: ha preso il controllo del pallone
+17644: della squadra C ha: ricevuto una violenta botta!
+17631: ha preso il controllo del pallone
+17631: della squadra A ha: sbagliato il dribbling!
+17755: ha preso il controllo del pallone
+17755: della squadra B ha: sbagliato il dribbling!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: saltato la scivolata!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17657: ha preso il controllo del pallone
+17657: della squadra E ha: sbagliato il dribbling!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: saltato la scivolata!
+17738: ha preso il controllo del pallone
+17738: della squadra R ha: sbagliato il tiro!
+17756: ha preso il controllo del pallone
+17756: della squadra D ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17659: ha preso il controllo del pallone
+17659: della squadra E ha: sbagliato il dribbling!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: saltato la scivolata!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: saltato la scivolata!
+17789: ha preso il controllo del pallone
+17789: della squadra R ha: driblato l'avversario!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17744: ha preso il controllo del pallone
+17744: della squadra S ha: sbagliato il tiro!
+17663: ha preso il controllo del pallone
+17663: della squadra F ha: fatto GOAL!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: saltato la scivolata!
+17748: ha preso il controllo del pallone
+17748: della squadra S ha: fatto GOAL!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: driblato l'avversario!
+17646: ha preso il controllo del pallone
+17646: della squadra C ha: ricevuto una violenta botta!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17789: ha preso il controllo del pallone
+17789: della squadra R ha: fatto GOAL!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: saltato la scivolata!
+17664: ha preso il controllo del pallone
+17664: della squadra F ha: fatto GOAL!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17674: ha preso il controllo del pallone
+17674: della squadra H ha: fatto GOAL!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17747: ha preso il controllo del pallone
+17747: della squadra S ha: fatto GOAL!
+17652: ha preso il controllo del pallone
+17652: della squadra D ha: fatto GOAL!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: saltato la scivolata!
+17671: ha preso il controllo del pallone
+17671: della squadra G ha: sbagliato il tiro!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17745: ha preso il controllo del pallone
+17745: della squadra S ha: sbagliato il tiro!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: saltato la scivolata!
+17667: ha preso il controllo del pallone
+17667: della squadra G ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: saltato la scivolata!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: driblato l'avversario!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: driblato l'avversario!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: driblato l'avversario!
+17669: ha preso il controllo del pallone
+17669: della squadra G ha: sbagliato il tiro!
+17653: ha preso il controllo del pallone
+17653: della squadra D ha: fatto GOAL!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: saltato la scivolata!
+17676: ha preso il controllo del pallone
+17676: della squadra H ha: sbagliato il dribbling!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17681: ha preso il controllo del pallone
+17681: della squadra I ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: driblato l'avversario!
+17665: ha preso il controllo del pallone
+17665: della squadra F ha: ricevuto una violenta botta!
+17687: ha preso il controllo del pallone
+17687: della squadra J ha: sbagliato il tiro!
+17655: ha preso il controllo del pallone
+17655: della squadra E ha: fatto GOAL!
+17754: ha preso il controllo del pallone
+17754: della squadra T ha: fatto GOAL!
+17791: ha preso il controllo del pallone
+17791: della squadra H ha: driblato l'avversario!
+17790: ha preso il controllo del pallone
+17790: della squadra T ha: sbagliato il dribbling!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17680: ha preso il controllo del pallone
+17680: della squadra I ha: sbagliato il tiro!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: saltato la scivolata!
+17689: ha preso il controllo del pallone
+17689: della squadra J ha: sbagliato il tiro!
+17649: ha preso il controllo del pallone
+17649: della squadra D ha: ricevuto una violenta botta!
+17752: ha preso il controllo del pallone
+17752: della squadra T ha: sbagliato il tiro!
+17682: ha preso il controllo del pallone
+17682: della squadra I ha: fatto GOAL!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: saltato la scivolata!
+17791: ha preso il controllo del pallone
+17791: della squadra H ha: fatto GOAL!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: saltato la scivolata!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17750: ha preso il controllo del pallone
+17750: della squadra T ha: sbagliato il tiro!
+17765: ha preso il controllo del pallone
+17765: della squadra F ha: driblato l'avversario!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: driblato l'avversario!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: driblato l'avversario!
+17668: ha preso il controllo del pallone
+17668: della squadra G ha: sbagliato il dribbling!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: saltato la scivolata!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: driblato l'avversario!
+17792: ha preso il controllo del pallone
+17792: della squadra J ha: driblato l'avversario!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: saltato la scivolata!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: saltato la scivolata!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: driblato l'avversario!
+17765: ha preso il controllo del pallone
+17765: della squadra F ha: saltato la scivolata!
+17683: ha preso il controllo del pallone
+17683: della squadra I ha: ricevuto una violenta botta!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: driblato l'avversario!
+17793: ha preso il controllo del pallone
+17793: della squadra K ha: driblato l'avversario!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17670: ha preso il controllo del pallone
+17670: della squadra G ha: ricevuto una violenta botta!
+17792: ha preso il controllo del pallone
+17792: della squadra J ha: fatto GOAL!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: driblato l'avversario!
+17685: ha preso il controllo del pallone
+17685: della squadra J ha: ricevuto una violenta botta!
+17765: ha preso il controllo del pallone
+17765: della squadra F ha: sbagliato il dribbling!
+17712: ha preso il controllo del pallone
+17712: della squadra N ha: fatto GOAL!
+17793: ha preso il controllo del pallone
+17793: della squadra K ha: fatto GOAL!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: saltato la scivolata!
+17700: ha preso il controllo del pallone
+17700: della squadra L ha: fatto GOAL!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: saltato la scivolata!
+17656: ha preso il controllo del pallone
+17656: della squadra E ha: fatto GOAL!
+17692: ha preso il controllo del pallone
+17692: della squadra K ha: sbagliato il tiro!
+17704: ha preso il controllo del pallone
+17704: della squadra M ha: fatto GOAL!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+17694: ha preso il controllo del pallone
+17694: della squadra K ha: fatto GOAL!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: driblato l'avversario!
+17695: ha preso il controllo del pallone
+17695: della squadra K ha: sbagliato il dribbling!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: driblato l'avversario!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: driblato l'avversario!
+17696: ha preso il controllo del pallone
+17696: della squadra K ha: sbagliato il tiro!
+17794: ha preso il controllo del pallone
+17794: della squadra I ha: driblato l'avversario!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: saltato la scivolata!
+17688: ha preso il controllo del pallone
+17688: della squadra J ha: sbagliato il dribbling!
+17698: ha preso il controllo del pallone
+17698: della squadra L ha: sbagliato il tiro!
+17677: ha preso il controllo del pallone
+17677: della squadra H ha: saltato la scivolata!
+17779: ha preso il controllo del pallone
+17779: della squadra M ha: fatto GOAL!
+17675: ha preso il controllo del pallone
+17675: della squadra H ha: saltato la scivolata!
+17705: ha preso il controllo del pallone
+17705: della squadra M ha: saltato la scivolata!
+17714: ha preso il controllo del pallone
+17714: della squadra N ha: driblato l'avversario!
+17794: ha preso il controllo del pallone
+17794: della squadra I ha: fatto GOAL!
+17702: ha preso il controllo del pallone
+17702: della squadra L ha: driblato l'avversario!
+========== FINE PARTITA ==========
+Squadra A: 10
+Squadra B: 9
+Squadra C: 8
+Squadra D: 9
+Squadra E: 7
+Squadra F: 7
+Squadra G: 7
+Squadra H: 13
+Squadra I: 9
+Squadra J: 7
+Squadra K: 9
+Squadra L: 8
+Squadra M: 11
+Squadra N: 7
+Squadra O: 6
+Squadra P: 5
+Squadra Q: 5
+Squadra R: 6
+Squadra S: 6
+Squadra T: 4

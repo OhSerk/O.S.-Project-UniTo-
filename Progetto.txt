@@ -1,0 +1,43 @@
+Il progetto simula una partita di calcio.
+
+Ci sono 4 programmi eseguibili
+-Main
+-Fato
+-Squadra
+-Giocatore
+
+Per un corretto funzionamento l'unico programma che deve essere eseguito è il Main, se si dovesse scegliere di eseguire invece uno degli altri programmi, l'eseguzione terminerebbe all'istante con un messaggio di errore.
+IL ciclo di vita del progetto è il seguente:
+Dopo l'eseguzuione del Main vengono generati i semafori di cui il programma ha bisogno, la coda di messaggi, le quali chiavi sono state definite tutte in un file "header.h" condiviso tra tutti i programmi del progetto, poi verranno generati 3 nuovi processi, rispettivamente:
+1)Fato
+2)Squadra A
+3)Squadra B
+
+Dopo che le 3 fork sono state eseguite correttamente l'arbitro fa partite un Alarm che servirà come cronometro, una volta arrivato a 0 tutti i processi figli termineranno e poi terminerà anche il Main.
+Il Main (l'arbitro) entrerà in un ciclo infinito dove attenderà messaggi da una delle due quadre, quando riceverà questo messaggio incrementerà il punteggio della squadra che ha inviato il messaggio, stampando sulla console il punteggio aggiornato al momento della ricezione del messaggio.
+
+
+Il fato come prima cosa, azzera il seme di randomizzazione, poi raccoglie i dati presi da un file di configurazione "config.txt" per i dati della partita riguardante le percentuali di Gol, Dribbling e Infortunio dei giocatori.
+Apre un file di log, dove verranno scritte tutte le azioni che i giocatori andranno ad eseguire durante la partita e poi inizia ad aspettare i messaggi dei giocatori.
+
+Le due squadre invece, faranno una copia del semaforo per gli infortuni della loro squadra ed eseguiranno una serie di fork pari al numero di giocatori che devono scendere in campo, fatto ciò entrambi i processi si addormentano sul semaforo degli infortuni, pronti a generare un nuovo giocatore.
+
+Ogni giocatore salverà il semaforo relativo agli infortuni e del possesso del pallone, quando un giocatore riesce ad avere il controllo del pallone entrerà in un funzione ricorsiva chiamata "giocata" dove scambierà messaggi con il fato, il giocatore effettua la domanda sul tipo di azione che vuole eseguire e aspetta la risposta del fato, il quale risponderà alla domanda del giocatore con 0 o 1 tutte le possibili combinazioni di domanda e risposta e dei loro effetti sono elencati qua sotto.
+
+Goal:
+	0:
+		Il giocatore libera il semaforo del pallone e stampa sulla console che ha sbagliato il tiro, il fato stampa nel log che il giocatore (PID) ha sbagliato il tiro.
+	1: 
+		Il giocatore manda un messaggio all'arbitro(Main) facendo incrementare il punteggio della propria squadra e stampa sulla console il goal, il fato stampa nel log che il giocatore (PID) ha fatto goal, il giocatore libera il semaforo del pallone.
+Dribbling:
+	0:
+		Il giocatore libera il semaforo del pallone e stampa sulla console che ha perso palla, il fato stampa nel log che il giocatore (PID) ha perso palla.
+	1:
+		Il giocatore stampa sulla console che è riuscito a driblare il suo avversario ed esegue la chiamata ricorsiva a "giocata" senza liberare il semaforo in moda da poter effettuare subito un altra azione, il fato stampa nel log che il giocatore (PID) ha effettuato un dribbling.
+Infortunio:
+	0:
+		Il giocatore salta l'avversario e scrive nella console, poi effettua la chiamata ricorsiva a "giocata", il fato scrive nel log che il giocatore (PID) ha evitato la scivolata.
+	1:
+		Il giocatore stampa nella console che si è infortunato, libera il semaforo degli infortuni per generare un nuovo processo e il giocatore esegue una exit, il fato stampa nel log che il giocatore (PID) deve essere sostituito, il processo squadra genera un nuovo giocatore e poi si riaddormenta sul semaforo.
+
+Quando il tempo scade e il Main riceve il segnale "SIGALARM" scrive sulla console il punteggio di fine partita e manda a tutti i processi il segnale "SIGTERM" e disalloca tutti i semafori e code di messaggi, il fato quando intercetta il segnale "SIGTERM" stamperà il risultato finale della partita nel file di log, e chiuderà il log e poi terminerà. Questo evita che si vengano a formare processi zombie o orfani.

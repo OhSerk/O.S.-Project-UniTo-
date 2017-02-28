@@ -1,0 +1,6 @@
+80 60 80 22
+
+1)Tempo partita
+2)Goal %
+3)Dribbling %
+4)Infortunio %
